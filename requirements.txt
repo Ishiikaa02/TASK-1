@@ -1,0 +1,9 @@
+# Personal Introduction Program - Requirements
+# Python Version Requirement
+python>=3.6
+
+# Testing Framework (Optional but good to include)
+pytest>=7.0.0
+
+# No external packages required for main program
+# Additional packages would be listed here if needed
